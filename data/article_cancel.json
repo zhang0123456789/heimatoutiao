@@ -1,0 +1,7 @@
+{
+  "url":"http://ttapi.research.itcast.cn/app/v1_0/users/collect/1",
+  "headers": {
+    "Content-type": "application/x-www-form-urlencoded",
+    "Authorization": "Bear Token信息"},
+    "expect_code": 204
+}

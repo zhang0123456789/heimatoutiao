@@ -1,0 +1,9 @@
+{
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/users/channel",
+  "headers": {
+            "Content-type": "application/json",
+            "Authorization":"Bear Token信息"},
+  "expect_code": 200,
+  "message": "OK"
+
+}

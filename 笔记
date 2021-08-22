@@ -1,0 +1,17 @@
+编写读取json工具
+1、导包
+新建读取工具类
+        1、使用初始化方法，获取要读取的文件名称self.filepath='../data/'+filename
+        2、读取文件方法
+            1、打开json 文件获取文件流
+            2、调用load方法加载文件流
+            3、返回结果
+
+
+
+2、使用参数化动态获取参数数据
+    结合parameterized组件使用
+    方法
+        get_data返回列表嵌套元组的数据格式
+        paramerized.expand(get_data())
+
